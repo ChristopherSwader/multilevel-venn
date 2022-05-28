@@ -323,5 +323,5 @@ print(gg_data)
 
 
 #Now run it!
-supervenn_random(4, mylabel)
+supervenn_random(20, mylabel)
 
