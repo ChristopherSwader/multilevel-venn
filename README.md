@@ -1,5 +1,5 @@
 # multilevel-venn
-Rectangular Venn Diagrams for Comparing Across and Within Cases Simultaneously
+Rectangular Venn Diagrams for Visually Comparing Across and Within Cases Simultaneously
 
 Sometimes we are interested in analyzing simultaneously differences between and within cases. For example, perhaps we want to compare the proportion of people who are (a) living alone, (b) single, and (c) feeling lonely within a given society. We are interested in all the possible overlaps between these and how much of the sample resides in each of the 8 possible subgroups (a, b, c, ab, bc, ca, abc, or none of these overlaps). This is easy enough with a scaled Venn Diagramme. However, what if we want to at the same time compare this information across countries? Enter the multi-level Venn diagramme. Using scaled regular Venns we can look at within- and between country proportions at the same time, thus allowing us to spot patterns we might not otherwise see. 
 
